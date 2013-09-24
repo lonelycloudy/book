@@ -1,0 +1,7 @@
+####1
+giturl:
+   trunk/(commit file)
+####2
+Commit failed (details follow):
+Empty directories are not supported: 
+trunk/android_study/.metadata/.mylyn/contexts, 
